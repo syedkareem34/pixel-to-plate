@@ -1,0 +1,25 @@
+1. importing the packages
+2. exploring the dataset 
+3. Image Processing 
+4. Data Extraction 
+	- Recipe Extraction
+5. Appending 
+	- Ingredients
+	- Nutritions
+	- Cooking Style
+6. Splitting the data into Train and Test
+7. Model building
+	- Autoencder CNN(Keras and Torch)
+	- miniVGG
+	- miniGoogleNet
+	- miniAlexNet
+	- CNN with 2 Fully COnnected Layers
+
+8. Training the Model with Train and Test and building the model 
+9. Flask Framework with Sqlite for signup and signin
+10. Modeling Building using Autoencoder using Torch
+11. User gives input 
+12. The given input is preprocessed for prediction
+13. Trained model is used for generation of recipe for about image 
+142. final outcome is displayed through frontend
+
